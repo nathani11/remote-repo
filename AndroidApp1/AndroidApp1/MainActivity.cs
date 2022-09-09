@@ -1,3 +1,6 @@
+using Android.Views;
+
+
 namespace AndroidApp1
 {
     [Activity(Label = "@string/app_name", MainLauncher = true)]

@@ -1,0 +1,7 @@
+obj\Release\net6.0-android\android-arm\aot\AndroidApp1.dll.so
+obj\Release\net6.0-android\android-arm\aot\System.Linq.dll.so
+obj\Release\net6.0-android\android-arm\aot\System.Runtime.CompilerServices.Unsafe.dll.so
+obj\Release\net6.0-android\android-arm\aot\System.Runtime.dll.so
+obj\Release\net6.0-android\android-arm\aot\Java.Interop.dll.so
+obj\Release\net6.0-android\android-arm\aot\Mono.Android.dll.so
+obj\Release\net6.0-android\android-arm\aot\System.Private.CoreLib.dll.so
