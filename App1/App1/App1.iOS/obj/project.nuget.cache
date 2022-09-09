@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LspfHuiS2FKsqkXEXA88fU2CGI4rFblI08/UtaLp4k7CeYKdiYXs3GB32stXXzFpvlnOS0imF2IkFzou3+QKjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
