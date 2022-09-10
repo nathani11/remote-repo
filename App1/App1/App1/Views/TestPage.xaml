@@ -8,9 +8,10 @@
   <ContentPage.Content>
         <Grid>
             <StackLayout Padding="50, 200, 50, 50">
-                <Entry Placeholder="Username" />
-                <Entry IsPassword="True" Placeholder="Password"/>
-                <Button Text="Login" Command="{Binding TestCommand}"/>
+                <Entry Placeholder="Username" x:Name="Email"/>
+                <Entry IsPassword="True" Placeholder="Password" x:Name="Password"/>
+                <Button Text="Login" Clicked="LoginClicked"/>
+                <Button Text="Signup" Clicked="SignupClicked"/>
             </StackLayout>
         </Grid>
   </ContentPage.Content>

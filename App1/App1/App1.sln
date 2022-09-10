@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.Android", "App1.Android\App1.Android.csproj", "{36360A9B-7A7B-4F2C-ABF3-B5DB48C8C22A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp.Android", "App1.Android\FirstApp.Android.csproj", "{36360A9B-7A7B-4F2C-ABF3-B5DB48C8C22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1.iOS", "App1.iOS\App1.iOS.csproj", "{F6505947-9CF6-4F59-9221-D14F3C130EF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp.iOS", "App1.iOS\FirstApp.iOS.csproj", "{F6505947-9CF6-4F59-9221-D14F3C130EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1.csproj", "{71A29DCF-EF97-4F50-85C4-9DF378EDED4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "App1\FirstApp.csproj", "{71A29DCF-EF97-4F50-85C4-9DF378EDED4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
