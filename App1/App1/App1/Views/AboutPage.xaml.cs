@@ -11,5 +11,6 @@ namespace App1.Views
         {
             InitializeComponent();
         }
+        private string Location = "Atlanta";
     }
 }
